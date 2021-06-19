@@ -7,5 +7,8 @@ function color(){
    function identify(){
     window.location="identifier.html";
    }
+   function mobilenet(){
+    window.location="mobilenet.html";
+   }
    
     
