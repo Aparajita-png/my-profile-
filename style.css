@@ -1,0 +1,22 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+.heading{
+font-size:50;
+color:red;
+}
+h2{
+color:rgb(0, 153, 255);
+font-weight:bold;
+}
+.why{
+font-size:50px;
+}
+.camera{
+font-size:50px;
+}
+.iden{
+    font-size:50px;
+    }
+    
