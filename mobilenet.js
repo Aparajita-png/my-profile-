@@ -23,3 +23,10 @@ function setup() {
     }
     }
   
+    function posenet(){
+        window.location="posenet.html";
+    }
+    function back(){
+        window.location="index.html";
+    }
+    
